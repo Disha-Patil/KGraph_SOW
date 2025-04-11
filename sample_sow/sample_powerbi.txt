@@ -1,0 +1,121 @@
+Statement of Work (SOW)
+Project Name: Power BI Dashboard for Warehouse Volume Tracking 
+Client: NewLogistic 
+Service Provider: Globant 
+
+
+
+1. Our Understanding
+a. Business Objective 
+The objective of this project is to design and implement a Power BI dashboard to track daily parcel volumes in NewLogistic's warehouses, including incoming and outgoing parcels. The dashboard will also compare these volumes with the previous week's data and correlate them with weekly labor and transport costs. This will enable NewLogistic to make data-driven decisions to optimize operations and costs. 
+
+b. Roadmap 
+The roadmap includes the following key milestones: 
+Requirement Gathering and Analysis: Understand the data sources, KPIs, and reporting needs.
+Design Phase: Create a high-level architecture and detailed design for the dashboard.
+Development Phase: Build the dashboard in iterative sprints.
+Testing Phase: Conduct rigorous testing to ensure data accuracy and usability.
+Deployment and Rollout: Deploy the dashboard to production and provide training to end-users.
+
+
+2. Project Management Methodology
+a. Agile Methodology 
+The project will follow the Agile methodology to ensure flexibility and iterative progress. The project will be divided into sprints, each lasting two weeks. 
+
+b. Detailed Design/Mobilization 
+Conduct workshops with stakeholders to finalize requirements.
+Prepare a detailed design document, including data flow diagrams and mockups.
+c. Development/Sprint Cycle 
+Sprint planning will be conducted at the beginning of each sprint.
+Each sprint will include development, testing, and review phases.
+
+
+3. Implementation
+a. Project Scope Overview 
+The project scope includes the following components: 
+Data Integration: Extract data from warehouse management systems, labor cost systems, and transport cost systems.
+Data Transformation: Clean and transform the data for reporting purposes.
+Dashboard Development: Create interactive visualizations in Power BI.
+Deployment: Publish the dashboard and provide access to stakeholders.
+b. Detailed Scope Breakdown 
+
+
+
+c. Assumptions and Considerations 
+Data will be provided in a structured format (e.g., CSV, Excel, or database).
+NewLogistic will provide access to all necessary systems and data sources.
+The dashboard will be hosted on Power BI Service.
+d. Scope and Detailed Design 
+A detailed design document will be prepared, including: 
+Data flow diagrams.
+Mockups of the dashboard.
+List of KPIs and metrics to be tracked.
+e. Build and Test 
+Develop the dashboard in Power BI.
+Conduct unit testing, integration testing, and user acceptance testing (UAT).
+f. Deployment and Rollout 
+Deploy the dashboard to Power BI Service.
+Provide training to end-users on how to use the dashboard.
+
+
+4. Services and Responsibilities
+a. Globant Responsibilities 
+Develop the Power BI dashboard.
+Conduct testing and ensure data accuracy.
+Provide training to NewLogistic's team.
+b. NewLogistic Responsibilities 
+Provide access to data sources.
+Validate the dashboard during UAT.
+Ensure end-users are available for training.
+
+
+5. Timelines
+a. High-Level Schedule 
+
+
+
+b. Indicative Schedule 
+Sprint 1: Data Integration (15-Nov-2023 to 28-Nov-2023).
+Sprint 2: Dashboard Development (29-Nov-2023 to 12-Dec-2023).
+
+
+6. Deliverables
+
+
+
+
+
+7. Client Responsibilities and Assumptions
+NewLogistic will provide all necessary data and system access by 01-Nov-2023.
+NewLogistic will ensure timely feedback during UAT.
+
+
+8. Staffing
+
+
+
+
+
+9. Charges and Expenses
+
+
+
+
+
+10. Quality of Services
+Globant ensures that the services provided will meet the agreed-upon acceptance criteria. Any issues identified during UAT will be resolved promptly. 
+
+
+
+Acknowledgement and Acceptance 
+By signing this document, both parties agree to the terms and conditions outlined in this SOW. 
+
+Client Representative: 
+Name: _____________________ 
+Signature: __________________ 
+Date: ______________________ 
+
+Service Provider Representative: 
+Name: _____________________ 
+Signature: __________________ 
+Date: ______________________
