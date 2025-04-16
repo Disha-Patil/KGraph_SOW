@@ -1,0 +1,78 @@
+Statement of Work (SOW)
+Project Title: SwiftRide Driver & Rider Mobile App Development
+Date: April 15, 2025
+Prepared by: NovaStack Technologies
+
+1. Project Overview
+SwiftRide is launching a new ride-sharing platform and requires the design and development of two mobile applications (Rider and Driver) for iOS and Android. The apps will facilitate ride requests, real-time GPS tracking, fare calculation, in-app payments, and user ratings.
+
+2. Scope of Work
+NovaStack will provide end-to-end development for the SwiftRide mobile apps, including:
+UI/UX design
+Native mobile development (iOS & Android)
+Backend API development
+Integration with maps, payment gateway, and notifications
+Admin dashboard for ride management
+Deployment to App Store and Google Play
+Basic training for admin portal usage
+
+3. Deliverables
+Design prototypes for both Rider and Driver apps
+Functional iOS and Android apps
+Backend API and database
+Admin web portal
+Source code repository access
+Deployment to production stores
+One-month post-launch support
+
+4. Project Timeline
+Discovery & Planning: April 22 – April 29
+Design Phase: April 30 – May 15
+Development Phase: May 16 – July 10
+QA & Testing: July 11 – July 20
+App Store Submission & Launch: July 25, 2025
+
+5. Project Costs
+Total Project Cost: $48,000
+40% upfront ($19,200)
+30% at development milestone
+30% upon final delivery and app store approval
+
+6. Acceptance Criteria
+Apps must pass internal QA with no major bugs
+Features implemented as per agreed wireframes and user stories
+SwiftRide signs off after UAT
+Apps successfully published to App Store and Google Play
+
+7. Assumptions
+Client will provide branding assets (logo, colors, etc.) before April 30
+NovaStack will use Firebase for push notifications and real-time updates
+Maps will be integrated via Google Maps SDK
+Payment processing will use Stripe
+
+8. Risks and Mitigation
+App store rejection – Ensure early compliance with Apple/Google guidelines
+Third-party API downtime – Use monitoring tools and fallback mechanisms
+Timeline delays due to scope change – Weekly reviews and scope freeze before dev phase
+
+9. Project Team
+Project Manager: Daniel Rees (NovaStack)
+Lead Developer: Priya Mehta (NovaStack)
+Backend Developer: Victor Zhao (NovaStack)
+UI/UX Designer: Leila Chen (NovaStack)
+QA Lead: Arjun Das (NovaStack)
+Client Contact: Jason Miller, Product Lead (SwiftRide)
+
+Approval & Signatures
+Client Approval
+I, the undersigned, approve this Statement of Work and authorize NovaStack Technologies to proceed with the project.
+Client Name: Jason Miller
+Title: Product Lead, SwiftRide
+Signature: ___________________________
+Date: _______________________________
+Service Provider Approval
+I, the undersigned, confirm the scope, cost, and timeline as detailed in this SOW.
+Provider Name: Daniel Rees
+Title: Project Manager, NovaStack Technologies
+Signature: ___________________________
+Date: _______________________________

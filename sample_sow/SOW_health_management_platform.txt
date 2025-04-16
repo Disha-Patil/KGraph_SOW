@@ -1,0 +1,81 @@
+Statement of Work (SOW)
+Project Title: HealthTech Innovations Health Management Platform
+Date: April 15, 2025
+Prepared by: CodeSpark Solutions
+
+1. Project Overview
+HealthTech Innovations seeks to develop a comprehensive health management platform for healthcare providers to track patient data, appointment scheduling, prescriptions, and treatment plans. This platform will include a web portal for providers and a mobile app for patients to access and update their health information.
+
+2. Scope of Work
+CodeSpark Solutions will design and develop the HealthTech Innovations platform, including:
+Custom web portal for healthcare providers (Admin and Doctor roles)
+Mobile app for patients (iOS & Android)
+Integration with healthcare systems (EMR, EHR)
+Appointment scheduling and reminders
+Prescription management and refill requests
+Analytics and reporting dashboard
+Patient profiles and medical history tracking
+Secure data storage and HIPAA compliance
+
+3. Deliverables
+Complete design mockups for both the web portal and mobile app
+Fully functional web portal (Admin/Doctor)
+Patient mobile app (iOS & Android)
+Backend APIs for data synchronization
+Data security and HIPAA compliance reports
+User acceptance testing (UAT) results
+Post-launch support for 2 months
+
+4. Project Timeline
+Discovery & Requirements Gathering: April 22 – April 30
+Design Phase: May 1 – May 15
+Development Phase: May 16 – July 31
+QA & Testing: August 1 – August 15
+Final Review & UAT: August 16 – August 22
+Deployment: August 30, 2025
+
+5. Project Costs
+Total Project Cost: $65,000
+40% upfront ($26,000)
+30% upon completion of the development phase ($19,500)
+30% upon final delivery and go-live ($19,500)
+
+6. Acceptance Criteria
+Platform functionality as per defined requirements and use cases
+Compliance with HIPAA regulations and data security standards
+Successful deployment on web and mobile platforms
+Client approval after User Acceptance Testing (UAT)
+
+7. Assumptions
+HealthTech Innovations will provide the necessary access to third-party systems (EMR/EHR)
+Content and medical data for testing will be provided by the client
+Regular feedback will be provided by the client during the design and development phases
+HealthTech Innovations will handle all hosting and infrastructure costs
+
+8. Risks and Mitigation
+Regulatory Changes: Any significant healthcare policy changes during development may cause delays. CodeSpark will stay updated on relevant regulations and adjust timelines accordingly.
+Integration Issues with Healthcare Systems: Testing of integrations will begin early in the development phase to identify potential challenges.
+Scope Creep: A formal change request process will be in place for any scope changes.
+
+9. Project Team
+Project Manager: Linda Watts (CodeSpark Solutions)
+Lead Developer: Thomas Bailey (CodeSpark Solutions)
+Mobile App Developer: Carla Singh (CodeSpark Solutions)
+UX/UI Designer: Owen Kim (CodeSpark Solutions)
+QA Engineer: Maria Lopez (CodeSpark Solutions)
+Client Contact: Dr. Rachel Adams, Chief Technology Officer (HealthTech Innovations)
+
+
+Approval & Signatures
+Client Approval
+I, the undersigned, approve this Statement of Work and authorize CodeSpark Solutions to proceed with the project.
+Client Name: Dr. Rachel Adams
+Title: Chief Technology Officer, HealthTech Innovations
+Signature: ___________________________
+Date: _______________________________
+Service Provider Approval
+I, the undersigned, confirm the scope, cost, and timeline as detailed in this SOW.
+Provider Name: Linda Watts
+Title: Project Manager, CodeSpark Solutions
+Signature: ___________________________
+Date: _______________________________

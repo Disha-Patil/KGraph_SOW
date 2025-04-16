@@ -1,0 +1,78 @@
+Statement of Work (SOW)
+Project Title: GreenLeaf Organics Website Redesign
+Prepared by: BrightPixel Digital Studio
+Date: April 15, 2025
+
+1. Project Overview
+GreenLeaf Organics is seeking a complete redesign of its existing website to enhance user experience, reflect current brand identity, and improve mobile responsiveness. The goal is to increase online engagement, streamline e-commerce functionality, and provide a seamless experience across all devices.
+
+2. Scope of Work
+BrightPixel will redesign and develop a fully responsive website for GreenLeaf Organics, including:
+UI/UX redesign based on brand guidelines
+Development of custom WordPress theme
+Integration of e-commerce (Shopify plugin)
+Blog and recipe section migration
+SEO setup and analytics integration
+
+3. Deliverables
+Finalized design mockups (desktop, tablet, mobile)
+Fully developed and tested WordPress site
+E-commerce functionality with payment gateway integration
+Blog and content migration
+Basic SEO optimization
+Google Analytics integration
+Admin user guide (PDF)
+
+4. Project Timeline
+Kickoff Meeting: April 22, 2025
+Design Phase: April 23 – May 6
+Development Phase: May 7 – May 31
+Testing & QA: June 1 – June 7
+Final Delivery & Launch: June 10, 2025
+
+5. Project Costs
+Total Cost: $14,500
+50% upfront ($7,250)
+25% upon development completion
+25% upon final delivery and approval
+
+6. Acceptance Criteria
+Site is responsive across modern devices and browsers
+All agreed-upon features are functional and tested
+Client signs off on UAT checklist
+Website deployed to production hosting environment
+
+7. Assumptions
+Client will provide all content (text/images) by April 26
+Hosting and domain are managed by the client
+Client will provide feedback within 48 hours of design/demo reviews
+No third-party software licensing is required beyond the agreed plugins
+
+8. Risks and Mitigation
+Delayed Content Delivery: Buffer built into timeline; weekly content check-ins
+Scope Creep: Any new features will require a separate change order
+Technical Issues Post-Launch: One-month post-launch support included
+
+9. Project Team
+Project Manager: Sarah Lin (BrightPixel)
+Lead Developer: Jake Tran (BrightPixel)
+UI/UX Designer: Anika Rao (BrightPixel)
+QA Lead: Tim Berger (BrightPixel)
+Client Contact: Emily Stone, Marketing Director (GreenLeaf Organics)
+
+
+
+Approval & Signatures
+Client Approval
+I, the undersigned, approve this Statement of Work and authorize BrightPixel Digital Studio to proceed with the described project.
+Client Name: Emily Stone
+Title: Marketing Director, GreenLeaf Organics
+Signature: ___________________________
+Date: _______________________________
+Service Provider Approval
+I, the undersigned, confirm the scope, cost, and timeline as detailed in this SOW.
+Provider Name: Sarah Lin
+Title: Project Manager, BrightPixel Digital Studio
+Signature: ___________________________
+Date: _______________________________
+

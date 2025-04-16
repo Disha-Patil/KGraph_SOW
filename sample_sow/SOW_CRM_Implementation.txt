@@ -1,0 +1,93 @@
+Statement of Work (SoW)
+CRM System Implementation Project
+Prepared for:
+Innovatech Solutions, Inc.
+225 Technology Drive, San Jose, CA 95110
+Prepared by:
+AlphaTech Consulting, LLC.
+900 Market Street, San Francisco, CA 94102
+Date: April 4, 2025
+
+Project Duration: May 1, 2025 – September 30, 2025
+1. Project Overview
+AlphaTech Consulting will implement Salesforce CRM at Innovatech Solutions, transitioning
+from the existing legacy CRM, SugarCRM. The goal is to streamline customer relationship
+management, increase sales productivity by 20%, and enhance reporting capabilities.
+
+2. Scope of Work
+2.1 CRM Implementation
+- Installation and configuration of Salesforce Sales Cloud.
+- Migration of approximately 20,000 customer records and historical data (5 years) from
+SugarCRM.
+- Integration with existing ERP system (SAP S/4HANA) and email platform (Microsoft
+Outlook).
+- Deployment of standard Salesforce dashboards and customized reporting modules.
+2.2 Custom Development
+- Custom Salesforce Lightning components (up to 5 components).
+- Workflow automation (up to 10 automation workflows).
+- API integrations with SAP S/4HANA for inventory and order management.
+2.3 User Training & Documentation
+- Comprehensive training for 150 users across sales, marketing, and customer service teams.
+- Delivery of detailed user manuals, training guides, and quick reference sheets.
+- Provision of online training sessions (up to 10 sessions).
+2.4 Post-Implementation Support
+- Ongoing support and maintenance for three months post-go-live.- Weekly health-check meetings.
+- 24-hour turnaround for critical support issues.
+
+3. Deliverables
+- Salesforce Sales Cloud fully implemented and operational.
+- Migrated data verified and validated by the Innovatech Solutions team.
+- Integrated system with SAP S/4HANA and Microsoft Outlook.
+- Complete set of custom-built components and workflows deployed.
+- User manuals, training documentation, and recorded sessions provided.
+- Detailed project closure report.
+
+4. Project Timeline
+- Project Kick-off: May 1, 2025
+- Requirements Gathering & Planning: May 2 – May 16, 2025
+- System Installation & Configuration: May 19 – June 13, 2025
+- Data Migration & Integration: June 16 – July 25, 2025
+- Custom Development & Testing: July 28 – August 22, 2025
+- User Training: August 25 – September 12, 2025
+- Go-Live: September 15, 2025
+- Support & Project Closure: September 16 – September 30, 2025
+
+5. Project Costs
+Salesforce Licensing (150 users, annual): $180,000
+Implementation Services: $95,000
+Custom Development: $40,000
+Training & Documentation: $15,000
+Post-Implementation Support: $10,000
+Total: $340,000
+
+6. Acceptance Criteria
+- All system functionalities fully operational with zero critical issues.
+- Data migration verified with less than 1% error rate.
+- Successful completion of training and documented user competency.
+- Sign-off from Innovatech Solutions management upon successful project delivery.
+
+7. Assumptions
+- Innovatech Solutions will provide timely access to existing CRM and ERP systems.
+- Availability of key stakeholders for meetings, data verification, and training.
+- Salesforce licensing cost subject to changes in Salesforce pricing.
+
+8. Risks and Mitigation
+- Risk: Data loss or corruption during migration.
+Mitigation: Backup procedures and phased migration approach.- Risk: Integration challenges with SAP .
+Mitigation: Early involvement of SAP specialists and robust API testing.
+
+9. Project Team
+- Project Sponsor: Jennifer Bell, VP Sales, Innovatech Solutions
+- Project Manager: Rajiv Kumar, AlphaTech Consulting
+- Technical Lead: Maria Gomez, AlphaTech Consulting
+- Lead Salesforce Consultant: Kevin Liu, AlphaTech Consulting
+
+Approval Signatures:
+____________________________
+Jennifer Bell, VP Sales
+Innovatech Solutions, Inc.
+Date:
+____________________________
+Anita Reynolds, Director of Projects
+AlphaTech Consulting, LLC.
+Date:
